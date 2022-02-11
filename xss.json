@@ -38,7 +38,10 @@
 "key=",
 "l=",
 "begindate=",
-"enddate="
-
+"enddate=",
+"utm_source=",
+"utm_medium=",
+"utm_campaign=",
+"pp="          
 ]
 }
